@@ -12,3 +12,4 @@ uploadnotes.txt
 __pycache__/
 *.so
 *~
+.idea
